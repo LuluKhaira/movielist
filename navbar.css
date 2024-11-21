@@ -1,0 +1,11 @@
+.navbar-logo {
+  font-family: "Arial", sans-serif; /* Menentukan jenis font */
+  font-size: 30px; /* Ukuran teks */
+  color: #873030; /* Warna teks */
+  letter-spacing: 1px; /* Menambahkan jarak antar huruf. */
+  font-weight: bold; /* Menjadikan teks tebal  */
+}
+
+.navbar-logo span {
+  color: #f7f6f6; /* Warna teks bagian lain */
+}
